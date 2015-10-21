@@ -7,7 +7,7 @@ li {
   margin: 10px;
 }
 
-img {
+li img {
   width: 30px;
   height: 30px;
   vertical-align: middle;
@@ -28,4 +28,28 @@ nav {
 
 .username {
   color: grey;
+}
+
+.cl {
+  clear: both;
+}
+.hero {
+  display: block;
+}
+
+.mainlogo {
+  display: block;
+  width: 300px;
+  margin: 100px auto 0 auto;
+}
+
+.search {
+  display: block;
+  margin-left: 420px;
+}
+
+.buttons {
+  display: block;
+  margin-left: 550px;
+  margin-top: 10px;
 }
